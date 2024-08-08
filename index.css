@@ -1,0 +1,33 @@
+.father{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    padding: 40px;
+    gap: 10px;
+    box-shadow: 20px 20px 20px 30px;
+border-radius: 30px;
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mother{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    padding: 40px;
+    gap: 30px;
+    box-shadow: 20px 20px 20px 25px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 13rem;
+    overflow: hidden;
+    height: 3rem;
+}
